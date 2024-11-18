@@ -5,3 +5,4 @@ behind = "⇣${count}"
 modified = "!${count}"
 untracked = "?${count}"
 staged = "+${count}"
+
